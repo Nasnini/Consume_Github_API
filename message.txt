@@ -1,9 +1,0 @@
-Dear ${PERSON_NAME},
-
-I hope this random email finds you well and in good spirit. 
-Due to the Covid-83 outbreak, we will unfortunately be un able to process your orders. 
-We do urge you to stay safe and in quarantine.
-Hope to see you soon
-
-Yours faithfully,
-Nasnini.
